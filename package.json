@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "@shopify/app": "3.55.2",
-    "@shopify/cli": "3.55.2"
+    "@shopify/cli": "3.55.2",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^9.0.1"
   },
   "trustedDependencies": [
     "@shopify/plugin-cloudflare"
